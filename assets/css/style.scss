@@ -22,6 +22,21 @@ footer {
   text-align: center;
 }
 
+hr {
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: none;
+}
+
+ol.pub-list {
+  padding-left: 2.2em;
+}
+
+ol.pub-list li::marker {
+  content: "[" counter(list-item) "] ";
+  font-weight: bold;
+}
+
 @media print, screen and (max-width: 960px) {
   div.wrapper {
     width: auto;

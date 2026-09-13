@@ -5,11 +5,11 @@ title: Gonzalo González de Diego
 
 # Gonzalo González de Diego
 
-<img src="me.jpg" alt="Gonzalo González de Diego" width="250" style="float: right; margin-left: 20px; border-radius: 8px;"/>
-
 **Marie-Curie Postdoctoral Fellow**  
 E.T.S.I. Telecomunicación  
 Universidad Politécnica de Madrid (UPM), Spain  
+
+<img src="me.jpg" alt="Gonzalo González de Diego" width="250" style="border-radius: 8px; margin: 15px 0;"/>
 
 [Google Scholar](https://scholar.google.com/citations?user=VIOEniAAAAAJ&hl=en) | [GitHub](https://github.com/gonzalogddiego) | [Bitbucket](https://bitbucket.org/gonzalogddiego/workspace/overview/) | [CV](cv.pdf) | [Email](mailto:g.gonzalezd@upm.es)
 
@@ -33,11 +33,11 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 ## Publications
 
 ### Preprints
-<ol reversed markdown="1">
+<ol reversed class="pub-list" markdown="1">
 </ol>
 
 ### Peer-Reviewed Journal Articles
-<ol reversed markdown="1">
+<ol reversed class="pub-list" markdown="1">
 <li markdown="1">
 
 **G.G. de Diego**, G. Stadler (2026).  
@@ -110,7 +110,6 @@ R. Bardera-Mora, M. A. Barcala-Montejano, A. Rodríguez-Sevillano, **G. G. de Di
 
 ## Contact
 
-**Office:** Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSIT)  
-**Universidad Politécnica de Madrid**  
-Av. Complutense, 30, 28040 Madrid, Spain  
+**Office:** A302-3 in Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSIT)  
+**Address:** Av. Complutense, 30, 28040 Madrid, Spain  
 **Email:** `g.gonzalezd [at] upm.es`
