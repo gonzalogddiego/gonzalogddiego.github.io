@@ -54,16 +54,16 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 </li>
 <li markdown="1">
 
-**G.G. de Diego**, M. Gupta, S.A. Gering, R. Haris, G. Stadler (2025).  
-  *Modeling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from a discrete element model.*  
-  **Journal of Fluid Mechanics**. [[DOI](https://doi.org/10.1017/jfm.2024.1026)] [[arXiv](https://arxiv.org/abs/2405.08123)]
+D. Shapero, **G.G. de Diego** (2025).  
+  *Numerical simulation of glacier terminus evolution using the dual action principle for momentum balance.*  
+  **Journal of Glaciology**. [[DOI](https://doi.org/10.1017/jog.2024.92)]
 
 </li>
 <li markdown="1">
 
-D. Shapero, **G.G. de Diego** (2025).  
-  *Numerical simulation of glacier terminus evolution using the dual action principle for momentum balance.*  
-  **Journal of Glaciology**. [[DOI](https://doi.org/10.1017/jog.2024.92)]
+**G.G. de Diego**, M. Gupta, S.A. Gering, R. Haris, G. Stadler (2024).  
+  *Modeling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from a discrete element model.*  
+  **Journal of Fluid Mechanics**. [[DOI](https://doi.org/10.1017/jfm.2024.1026)] [[arXiv](https://arxiv.org/abs/2405.08123)]
 
 </li>
 <li markdown="1">
