@@ -26,14 +26,25 @@ hr {
   border: 0;
   border-top: 1px solid #eee;
   border-bottom: none;
+  box-shadow: none;
+}
+
+hr::before,
+hr::after {
+  content: none;
+  display: none;
 }
 
 ol.pub-list {
   padding-left: 2.2em;
 }
 
+ol.pub-list li {
+  counter-increment: pub-count -1;
+}
+
 ol.pub-list li::marker {
-  content: "[" counter(list-item) "] ";
+  content: "[" counter(pub-count) "] ";
   font-weight: bold;
 }
 

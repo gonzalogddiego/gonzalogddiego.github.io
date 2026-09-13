@@ -26,7 +26,7 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 ### Research Interests
 * **Glaciology:** Marine ice sheet dynamics, subglacial cavity formation, sea ice rheology.
 * **Numerical Analysis & PDE Constrained Optimization:** Finite element methods, variational inequalities, inverse problems.
-* **Data-driven & Learned Rheologies:** Inferring continuum model parameters from particle scale dynamics.
+* **Data-driven & Learned Rheologies:** Inferring continuum models from particle scale dynamics.
 
 ---
 
@@ -37,7 +37,7 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 </ol>
 
 ### Peer-Reviewed Journal Articles
-<ol reversed class="pub-list" markdown="1">
+<ol reversed start="9" class="pub-list" markdown="1" style="counter-reset: pub-count 10;">
 <li markdown="1">
 
 **G.G. de Diego**, G. Stadler (2026).  
