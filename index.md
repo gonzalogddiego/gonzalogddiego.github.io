@@ -49,7 +49,7 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 
 **G.G. de Diego**, G. Stadler (2026).  
   *Non-Newtonian viscous fluid models with learned rheology accurately reproduce Lagrangian sea ice simulations.*  
-  **Physical Review Fluids**, 11(1), 013301. [[DOI](https://doi.org/10.1103/j4qf-s1th)] [[arXiv](https://arxiv.org/abs/2405.08123)]
+  **Physical Review Fluids**, 11(1), 013301. [[DOI](https://doi.org/10.1103/j4qf-s1th)] [[arXiv](https://arxiv.org/abs/2509.16426)]
 
 </li>
 <li markdown="1">
