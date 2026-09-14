@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Gonzalo González de Diego
+title: Gonzalo G. de Diego
 ---
 
-# Gonzalo González de Diego
+# Gonzalo G. de Diego
 
 **Marie-Curie Postdoctoral Fellow**  
 E.T.S.I. Telecomunicación  
@@ -27,6 +27,9 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 * **Glaciology:** Marine ice sheet dynamics, subglacial cavity formation, sea ice rheology.
 * **Numerical Analysis & PDE Constrained Optimization:** Finite element methods, variational inequalities, inverse problems.
 * **Data-driven & Learned Rheologies:** Inferring continuum models from particle scale dynamics.
+
+### My name
+My complete name is **Gonzalo González de Diego**, where González is my first surname and de Diego my second. In Spain we use two surnames, one from the father and the other from the mother. For my academic papers, I write Gonzalo G. de Diego, with the G. playing the role of a middle name. Like the Mexican film director Alejandro G. Iñárritu!
 
 ---
 
