@@ -34,6 +34,13 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 
 ### Preprints
 <ol reversed class="pub-list" markdown="1">
+<li markdown="1">
+
+**G.G. de Diego**, F. Garcia, G. Stadler, K. Wang (2026).  
+  *Transform before linearizing: robust Newton methods for singular p-Laplace and p-Stokes equations.*  
+  [[arXiv](https://arxiv.org/abs/2609.12241)]
+
+</li>
 </ol>
 
 ### Peer-Reviewed Journal Articles
