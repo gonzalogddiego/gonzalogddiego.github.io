@@ -33,7 +33,7 @@ I completed my PhD in 2023 at the **Mathematical Institute (University of Oxford
 ## Publications
 
 ### Preprints
-<ol reversed class="pub-list" markdown="1">
+<ol reversed class="pub-list" markdown="1" style="counter-reset: pub-count 11;">
 <li markdown="1">
 
 **G.G. de Diego**, F. Garcia, G. Stadler, K. Wang (2026).  
