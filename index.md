@@ -36,7 +36,14 @@ My complete name is **Gonzalo González de Diego**, where González is my first 
 ## Publications
 
 ### Preprints
-<ol reversed class="pub-list" markdown="1" style="counter-reset: pub-count 11;">
+<ol reversed class="pub-list" markdown="1" style="counter-reset: pub-count 12;">
+<li markdown="1">
+
+**G.G. de Diego**, G. Stadler (2026).  
+  *Well-posed by design: learning constitutive laws from velocity data using convex neural network potentials.*  
+  [[arXiv](https://arxiv.org/abs/2610.07236)]
+
+</li>
 <li markdown="1">
 
 **G.G. de Diego**, F. Garcia, G. Stadler, K. Wang (2026).  
